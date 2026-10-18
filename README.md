@@ -1,4 +1,4 @@
-# 🏨 Hotel Reservation System
+# 🏨 Hotel Reservation System.
 
 An end-to-end desktop software solution built in **Java** and **MySQL**, designed to streamline hotel operations including room management, guest bookings, billing, and system administration.
 
